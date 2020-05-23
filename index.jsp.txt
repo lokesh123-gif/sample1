@@ -1,0 +1,5 @@
+<html>
+<body>
+<h2>jenkins deploy war file in tomcat</h2>
+</body>
+</html>
